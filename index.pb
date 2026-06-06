@@ -18,7 +18,7 @@ lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 21.4.10:0ÇóÒÿÉÒ õBuon Duaall"https://buondua.com0*°
 
 Comic Fury+eu.kanade.tachiyomi.extension.all.comicfuryì
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.comicfury-v1.4.7.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comicfury.png"1.4(21.4.7:4©è„²ä˜ÄöG
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.comicfury-v1.4.8.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comicfury.png"1.4(21.4.8:4©è„²ä˜ÄöG
 Comic Furyall"https://comicfury.com0:3öÉ¾Ó§Œ¡áV
 Comic Furyen"https://comicfury.com0:3 ò ûŠà¾–E
 Comic Furyes"https://comicfury.com0:6éÊúÁ³Ïx
@@ -175,7 +175,7 @@ Joymii Huball"https://www.joymiihub.com0*ä
 Junmeitu*eu.kanade.tachiyomi.extension.all.junmeituê
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.junmeitu-v1.4.7.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.junmeitu.png"1.4(21.4.7:1ì’‡­‹ÄÂAJunmeituall"https://meijuntu.com0*Ü
 Kagane(eu.kanade.tachiyomi.extension.all.kaganeç
-khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.kagane-v1.4.26.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.kagane.png"1.4(21.4.26:+ì³Õ¹¸˜¯í7Kaganeen"https://kagane.to0:+‘í¿§êÀˆKaganeja"https://kagane.to0:+†ôªç×Á¿ğKaganeko"https://kagane.to0:+ëĞº‹Ãÿ»Kaganezh"https://kagane.to0:+ó£ú—¹¨§WKaganees"https://kagane.to0:/ÿµ„¤ë×‹-Kaganees-419"https://kagane.to0:+Õ¤»¸·Ê§TKaganefr"https://kagane.to0:+ÌÕ½ìÚ¥·ÁKaganede"https://kagane.to0:+®ü¥ı¢ÚÅ-Kaganept"https://kagane.to0:.Úİ©œ¡İâö{Kaganept-BR"https://kagane.to0:+øã„’ëºæ¹yKaganeru"https://kagane.to0:+Åı ³œ×ûµKaganeit"https://kagane.to0:+ÁÏñŒ¾àŸòjKaganeid"https://kagane.to0:+«–¨é‹‘×zKaganevi"https://kagane.to0:+Ó³¤¸ÔÖìKaganeth"https://kagane.to0:+¡˜Ğ“©ÑŸÿKaganepl"https://kagane.to0:+°·ÎÓ×²‘}Kaganehi"https://kagane.to0:+‹áÄ×åÊmKaganear"https://kagane.to0*Ù
+khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.kagane-v1.4.27.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.kagane.png"1.4(21.4.27:+ì³Õ¹¸˜¯í7Kaganeen"https://kagane.to0:+‘í¿§êÀˆKaganeja"https://kagane.to0:+†ôªç×Á¿ğKaganeko"https://kagane.to0:+ëĞº‹Ãÿ»Kaganezh"https://kagane.to0:+ó£ú—¹¨§WKaganees"https://kagane.to0:/ÿµ„¤ë×‹-Kaganees-419"https://kagane.to0:+Õ¤»¸·Ê§TKaganefr"https://kagane.to0:+ÌÕ½ìÚ¥·ÁKaganede"https://kagane.to0:+®ü¥ı¢ÚÅ-Kaganept"https://kagane.to0:.Úİ©œ¡İâö{Kaganept-BR"https://kagane.to0:+øã„’ëºæ¹yKaganeru"https://kagane.to0:+Åı ³œ×ûµKaganeit"https://kagane.to0:+ÁÏñŒ¾àŸòjKaganeid"https://kagane.to0:+«–¨é‹‘×zKaganevi"https://kagane.to0:+Ó³¤¸ÔÖìKaganeth"https://kagane.to0:+¡˜Ğ“©ÑŸÿKaganepl"https://kagane.to0:+°·ÎÓ×²‘}Kaganehi"https://kagane.to0:+‹áÄ×åÊmKaganear"https://kagane.to0*Ù
 Kemono(eu.kanade.tachiyomi.extension.all.kemonoç
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.kemono-v1.4.24.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.kemono.png"1.4(21.4.24:,­ÈÎñö¬ôKemonoall"https://kemono.cr0*Ş
 Kiutaku)eu.kanade.tachiyomi.extension.all.kiutakuè
@@ -276,7 +276,7 @@ khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Mango'eu.kanade.tachiyomi.extension.all.mangoå
 jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.mango-v1.4.11.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.mango.png"1.4(21.4.11:Ï‡«ûóœ(Mangoen*¢
 Manhuarm*eu.kanade.tachiyomi.extension.all.manhuarmë
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.manhuarm-v1.4.71.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhuarm.png"1.4(G21.4.71:2ç«¨Í£ÿ·‰Manhuarmar"https://manhuarmtl.com0:2îÃ§û¸İjManhuarmen"https://manhuarmtl.com0:2õ¾ï±ÿ£éÎvManhuarmes"https://manhuarmtl.com0:2ÜëÑñ×÷½vManhuarmfr"https://manhuarmtl.com0:2¢ÙúÙÖİYManhuarmid"https://manhuarmtl.com0:2±îŸË´Û£ĞiManhuarmit"https://manhuarmtl.com0:5ÅÜ¢ĞÆûäûMManhuarmpt-BR"https://manhuarmtl.com0*Ù
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.manhuarm-v1.4.72.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhuarm.png"1.4(H21.4.72:2ç«¨Í£ÿ·‰Manhuarmar"https://manhuarmtl.com0:2îÃ§û¸İjManhuarmen"https://manhuarmtl.com0:2õ¾ï±ÿ£éÎvManhuarmes"https://manhuarmtl.com0:2ÜëÑñ×÷½vManhuarmfr"https://manhuarmtl.com0:2¢ÙúÙÖİYManhuarmid"https://manhuarmtl.com0:2±îŸË´Û£ĞiManhuarmit"https://manhuarmtl.com0:5ÅÜ¢ĞÆûäûMManhuarmpt-BR"https://manhuarmtl.com0*Ù
 Manhwa18.cc,eu.kanade.tachiyomi.extension.all.manhwa18ccï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.manhwa18cc-v1.4.56.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhwa18cc.png"1.4(821.4.56:2‚ÉÆöĞò´˜CManhwa18.ccen"https://manhwa18.cc0:2ß‡“ùøš‡¢_Manhwa18.ccko"https://manhwa18.cc0:3ôêªÔÃÌÂäManhwa18.ccall"https://manhwa18.cc0*ö
 Manhwa18.net-eu.kanade.tachiyomi.extension.all.manhwa18netñ
@@ -421,7 +421,7 @@ khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Azora&eu.kanade.tachiyomi.extension.ar.azoraã
 ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.azora-v1.4.65.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.azora.png"1.4(A21.4.65:,ã¿îÚ’¦Ğ¹"Azoraar"https://azoramoon.com*ù
 Comic Verse+eu.kanade.tachiyomi.extension.ar.comicverseí
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.comicverse-v1.4.14.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.comicverse.png"1.4(21.4.14:>çˆÙú¥“ôgComic Versear"!https://arcomixverse.blogspot.com*û
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.comicverse-v1.4.15.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.comicverse.png"1.4(21.4.15:>çˆÙú¥“ôgComic Versear"!https://arcomixverse.blogspot.com*û
 Despair Manga-eu.kanade.tachiyomi.extension.ar.despairmangañ
 phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.despairmanga-v1.4.32.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.despairmanga.png"1.4( 21.4.32:8û¢Çû×„å¦Despair Mangaar"https://despair-manga.net*«
 Detective Conan Ar1eu.kanade.tachiyomi.extension.ar.detectiveconanarú
@@ -441,13 +441,13 @@ ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Hijala'eu.kanade.tachiyomi.extension.ar.hijalaå
 jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.hijala-v1.4.35.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.hijala.png"1.4(#21.4.35:*‚öù·íØİHijalaar"https://hijala.com*™
 Loner Translations2eu.kanade.tachiyomi.extension.ar.lonertranslationsü
-uhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.lonertranslations-v1.4.12.apk‚https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.lonertranslations.png"1.4(21.4.12:A»ºÊÎù½Loner Translationsar"https://loner-tl.blogspot.com*ê
+uhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.lonertranslations-v1.4.13.apk‚https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.lonertranslations.png"1.4(21.4.13:A»ºÊÎù½Loner Translationsar"https://loner-tl.blogspot.com*ê
 3asq*eu.kanade.tachiyomi.extension.ar.manga3asqë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.manga3asq-v1.4.52.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.manga3asq.png"1.4(421.4.52:9¼âî¢¤ù‘óÙ…Ø§Ù†Ø¬Ø§ Ø§Ù„Ø¹Ø§Ø´Ù‚ar"https://3asq.org*
 Manga Ai Land,eu.kanade.tachiyomi.extension.ar.mangaailandï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.mangaailand-v1.4.12.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.mangaailand.png"1.4(21.4.12:Aªç¯„‹ìéÔbManga Ai Landar""https://manga-ai-land.blogspot.com*ê
+ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.mangaailand-v1.4.13.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.mangaailand.png"1.4(21.4.13:Aªç¯„‹ìéÔbManga Ai Landar""https://manga-ai-land.blogspot.com*ê
 MangaHub)eu.kanade.tachiyomi.extension.ar.mangahubé
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.mangahub-v1.4.13.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.mangahub.png"1.4(21.4.13:8¤Î–­ÍÂ‘MangaHubar"https://www.mangaxhentai.com0*Ï
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.mangahub-v1.4.14.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.mangahub.png"1.4(21.4.14:8¤Î–­ÍÂ‘MangaHubar"https://www.mangaxhentai.com0*Ï
 Mangalek)eu.kanade.tachiyomi.extension.ar.mangaleké
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.mangalek-v1.4.59.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.mangalek.png"1.4(;21.4.59:œ°«•¶äÁßÙ…Ø§Ù†Ø¬Ø§ Ù„ÙŠÙƒar"yhttps://lekmanga.net#, https://lekmanga.online#, https://like-manga.net#, https://lekmanga.site#, https://manga-leko.site*ñ
 	Mangalink*eu.kanade.tachiyomi.extension.ar.mangalinkë
@@ -477,15 +477,15 @@ nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Manhatic)eu.kanade.tachiyomi.extension.ar.manhaticé
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.manhatic-v1.4.50.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.manhatic.png"1.4(221.4.50:0úº†‚¢²ÈManhaticar"https://manhatic.com0*é
 Manhatok)eu.kanade.tachiyomi.extension.ar.manhatoké
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.manhatok-v1.4.12.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.manhatok.png"1.4(21.4.12:7˜ºŸä§ëò¨
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.manhatok-v1.4.13.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.manhatok.png"1.4(21.4.13:7˜ºŸä§ëò¨
 Manhatokar"https://manhatok.blogspot.com*Ó
 Murim&eu.kanade.tachiyomi.extension.ar.murimã
-ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.murim-v1.4.12.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.murim.png"1.4(21.4.12:-‡©û»ƒÇ÷DMurimar"https://www.murim.site*İ
+ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.murim-v1.4.13.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.murim.png"1.4(21.4.13:-‡©û»ƒÇ÷DMurimar"https://www.murim.site*İ
 Onma%eu.kanade.tachiyomi.extension.ar.onmaá
 hhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.onma-v1.4.15.apkuhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.onma.png"1.4(21.4.15:;øì¢ÚêâûÓÙ…Ø§Ù†Ø¬Ø§ Ø§ÙˆÙ† Ù„Ø§ÙŠÙ†ar"https://onma.me*í
 
 Orca Manga*eu.kanade.tachiyomi.extension.ar.orcamangaë
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.orcamanga-v1.4.12.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.orcamanga.png"1.4(21.4.12:6±„£Ö‡À­˜N
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.orcamanga-v1.4.13.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.orcamanga.png"1.4(21.4.13:6±„£Ö‡À­˜N
 Orca Mangaar"https://www.orcamanga.site*ñ
 Paradise BL+eu.kanade.tachiyomi.extension.ar.paradiseblí
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.paradisebl-v1.4.50.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.paradisebl.png"1.4(221.4.50:6Öáƒ˜ÔÔöæDParadise BLar"https://paradise-bl.com0*î
@@ -498,13 +498,13 @@ ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 	WaveTeamy*eu.kanade.tachiyomi.extension.ar.waveteamyê
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.waveteamy-v1.4.1.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.waveteamy.png"1.4(21.4.1:0²Ş¹¼º»	WaveTeamyar"https://waveteamy.com*ó
 XSano Manga+eu.kanade.tachiyomi.extension.ar.xsanomangaí
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.xsanomanga-v1.4.12.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.xsanomanga.png"1.4(21.4.12:8ŸıíÕæßŞĞUXSano Mangaar"https://www.xsano-manga.com*Ü
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.xsanomanga-v1.4.13.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.xsanomanga.png"1.4(21.4.13:8ŸıíÕæßŞĞUXSano Mangaar"https://www.xsano-manga.com*Ü
 Yokai&eu.kanade.tachiyomi.extension.ar.yokaiã
-ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.yokai-v1.4.13.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.yokai.png"1.4(21.4.13:6Õ”Ğ¸áú˜<Yokaiar"https://yokai-team.blogspot.com*Ş
+ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.yokai-v1.4.15.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.yokai.png"1.4(21.4.15:6Õ”Ğ¸áú˜<Yokaiar"https://yokai-team.blogspot.com*Ş
 Yona Bar(eu.kanade.tachiyomi.extension.ar.yonabarç
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.yonabar-v1.4.50.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.yonabar.png"1.4(221.4.50:/¶ø›ôµİ§¦oYona Barar"https://yonaber.com0*
 Yuri Moon Sub,eu.kanade.tachiyomi.extension.ar.yurimoonsubï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.yurimoonsub-v1.4.13.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.yurimoonsub.png"1.4(21.4.13:A–í¼£…ÛlYuri Moon Subar" https://yurimoonsub.blogspot.com0*ï
+ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.yurimoonsub-v1.4.14.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.yurimoonsub.png"1.4(21.4.14:A–í¼£…ÛlYuri Moon Subar" https://yurimoonsub.blogspot.com0*ï
 
 Utsukushii+eu.kanade.tachiyomi.extension.bg.utsukushiií
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-bg.utsukushii-v1.4.13.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.bg.utsukushii.png"1.4(21.4.13:5õº¾©“„Ï“=
@@ -645,11 +645,7 @@ nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Danke fÃ¼rs Lesen/eu.kanade.tachiyomi.extension.en.dankefurslesenô
 qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.dankefurslesen-v1.4.7.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.dankefurslesen.png"1.4(21.4.7:6¼»°»’è‘Danke fÃ¼rs Lesenen"https://danke.moe0*—
 Dark Legacy Comics1eu.kanade.tachiyomi.extension.en.darklegacycomicsù
-shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.darklegacycomics-v1.4.1.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.darklegacycomics.png"1.4(21.4.1:Dù¬µİÇ²¢ôDark Legacy Comicsen" https://www.darklegacycomics.com*è
-
-Dark Scans*eu.kanade.tachiyomi.extension.en.darkscansë
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.darkscans-v1.4.52.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.darkscans.png"1.4(421.4.52:1÷ãˆ¤ùØ×èr
-Dark Scansen"https://darkscans.net*ó
+shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.darklegacycomics-v1.4.1.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.darklegacycomics.png"1.4(21.4.1:Dù¬µİÇ²¢ôDark Legacy Comicsen" https://www.darklegacycomics.com*ó
 Dark Science,eu.kanade.tachiyomi.extension.en.darkscienceî
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.darkscience-v1.4.1.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.darkscience.png"1.4(21.4.1:6ıò÷¡‡•°ÊDark Scienceen"https://dresdencodak.com*ƒ
 Darths & Droids-eu.kanade.tachiyomi.extension.en.darthsdroidsğ
@@ -705,9 +701,7 @@ ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Scythe Scans*eu.kanade.tachiyomi.extension.en.erosscansë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.erosscans-v1.4.38.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.erosscans.png"1.4(&21.4.38:5ª’‚ì…æíÌScythe Scansen"https://scythescans.com*â
 	Eva Scans)eu.kanade.tachiyomi.extension.en.evascansé
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.evascans-v1.4.34.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.evascans.png"1.4("21.4.34:/ïÎ“èÆÓÂ	Eva Scansen"https://evascans.org*ô
-Evil Flowers,eu.kanade.tachiyomi.extension.en.evilflowersï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.evilflowers-v1.4.50.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.evilflowers.png"1.4(221.4.50:5ú—”©”Ì¡÷@Evil Flowersen"https://evilflowers.com*—
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.evascans-v1.4.34.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.evascans.png"1.4("21.4.34:/ïÎ“èÆÓÂ	Eva Scansen"https://evascans.org*—
 Existential Comics2eu.kanade.tachiyomi.extension.en.existentialcomicsû
 thttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.existentialcomics-v1.4.5.apk‚https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.existentialcomics.png"1.4(21.4.5:AĞŞ¶¸¶€ˆÀ	Existential Comicsen"https://existentialcomics.com*ğ
 Cyanide & Happiness(eu.kanade.tachiyomi.extension.en.explosmæ
@@ -953,7 +947,7 @@ shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 MangaFox)eu.kanade.tachiyomi.extension.en.mangafoxè
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangafox-v1.4.8.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangafox.png"1.4(21.4.8:.Ğ¦À‘¿ÈòşYMangaFoxen"https://fanfox.net0*ó
 MangaFox.fun,eu.kanade.tachiyomi.extension.en.mangafoxfunï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangafoxfun-v1.4.34.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangafoxfun.png"1.4("21.4.34:4¡äëÍãÃß‚qMangaFox.funen"https://mangafox.fun0*ñ
+ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangafoxfun-v1.4.35.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangafoxfun.png"1.4(#21.4.35:4¡äëÍãÃß‚qMangaFox.funen"https://mangafox.fun0*ñ
 
 Mangafreak+eu.kanade.tachiyomi.extension.en.mangafreakí
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangafreak-v1.4.13.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangafreak.png"1.4(21.4.13:7îÖ¬äÛÑÖ
@@ -975,15 +969,15 @@ ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 	Mangahere*eu.kanade.tachiyomi.extension.en.mangahereë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangahere-v1.4.22.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangahere.png"1.4(21.4.22:-	Mangahereen"https://www.mangahere.cc0*ù
 MangaHere.onl-eu.kanade.tachiyomi.extension.en.mangahereonlñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangahereonl-v1.4.34.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangahereonl.png"1.4("21.4.34:6²ı—šà“6MangaHere.onlen"https://mangahere.onl0*ç
+phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangahereonl-v1.4.35.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangahereonl.png"1.4(#21.4.35:6²ı—šà“6MangaHere.onlen"https://mangahere.onl0*ç
 MangaHub+eu.kanade.tachiyomi.extension.en.mangahubioí
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangahubio-v1.4.44.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangahubio.png"1.4(,21.4.44:/…Û¢õª˜·…BMangaHuben"https://mangahub.io0*Ù
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangahubio-v1.4.45.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangahubio.png"1.4(-21.4.45:/…Û¢õª˜·…BMangaHuben"https://mangahub.io0*Ù
 MangaKa(eu.kanade.tachiyomi.extension.en.mangakaç
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangaka-v1.4.50.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaka.png"1.4(221.4.50:+øÆ†õ¦”-MangaKaen"https://mangaka.cc*ı
 Mangakakalot-eu.kanade.tachiyomi.extension.en.mangakakalotñ
 phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangakakalot-v1.4.18.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangakakalot.png"1.4(21.4.18:;Ìé—¥©ÿ°Œ#Mangakakaloten"https://www.mangakakalot.gg0*Œ
 Mangakakalot.fun0eu.kanade.tachiyomi.extension.en.mangakakalotfunø
-shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangakakalotfun-v1.4.34.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangakakalotfun.png"1.4("21.4.34:<°ı½ÿÓìÅŠZMangakakalot.funen"https://mangakakalot.fun0*ô
+shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangakakalotfun-v1.4.35.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangakakalotfun.png"1.4(#21.4.35:<°ı½ÿÓìÅŠZMangakakalot.funen"https://mangakakalot.fun0*ô
 MangaKatana,eu.kanade.tachiyomi.extension.en.mangakatanaï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangakatana-v1.4.12.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangakatana.png"1.4(21.4.12:6áíª–… †€,MangaKatanaen"https://mangakatana.com0*è
 
@@ -999,17 +993,17 @@ jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Comivex)eu.kanade.tachiyomi.extension.en.mangamobè
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangamob-v1.4.2.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangamob.png"1.4(21.4.2:,õÕØÕÁ®µ Comivexen"https://comivex.com*á
 MangaNel)eu.kanade.tachiyomi.extension.en.manganelé
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manganel-v1.4.34.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manganel.png"1.4("21.4.34:/Èã½¢ëÃı´	MangaNelen"https://manganel.me0*ì
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manganel-v1.4.35.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manganel.png"1.4(#21.4.35:/Èã½¢ëÃı´	MangaNelen"https://manganel.me0*ì
 	Manganato*eu.kanade.tachiyomi.extension.en.manganeloë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manganelo-v1.4.16.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manganelo.png"1.4(21.4.16:6ğí¨¤—£œ	Manganatoen"https://www.natomanga.com0*ß
 MangaNow)eu.kanade.tachiyomi.extension.en.manganowè
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manganow-v1.4.3.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manganow.png"1.4(21.4.3:/˜¬‹œéğîMangaNowen"https://manganow.to0*…
 MangaOnline.fun/eu.kanade.tachiyomi.extension.en.mangaonlinefunõ
-rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangaonlinefun-v1.4.34.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaonlinefun.png"1.4("21.4.34::ÈëÅìŠûíêIMangaOnline.funen"https://mangaonline.fun0*‡
+rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangaonlinefun-v1.4.35.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaonlinefun.png"1.4(#21.4.35::ÈëÅìŠûíêIMangaOnline.funen"https://mangaonline.fun0*‡
 MangaOwl.io (unoriginal)+eu.kanade.tachiyomi.extension.en.mangaowlioí
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangaowlio-v1.4.51.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaowlio.png"1.4(321.4.51:?å›Ê…å¯Õ˜MangaOwl.io (unoriginal)en"https://mangaowl.io0*ı
 MangaPanda.onl.eu.kanade.tachiyomi.extension.en.mangapandaonló
-qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangapandaonl-v1.4.34.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangapandaonl.png"1.4("21.4.34:6õÀáŸÚ´©jMangaPanda.onlen"https://mangapanda.onl*æ
+qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangapandaonl-v1.4.35.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangapandaonl.png"1.4(#21.4.35:6õÀáŸÚ´©jMangaPanda.onlen"https://mangapanda.onl*æ
 	MangaPill*eu.kanade.tachiyomi.extension.en.mangapillê
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangapill-v1.4.9.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangapill.png"1.4(	21.4.9:2‹Ò§Ò©›Ÿu	MangaPillen"https://mangapill.com0*ğ
 	MangaGeko-eu.kanade.tachiyomi.extension.en.mangarawclubñ
@@ -1022,7 +1016,7 @@ Manga Readen"https://mangaread.co0*ı
 MangaReader.in.eu.kanade.tachiyomi.extension.en.mangareaderccò
 phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.5.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadercc.png"1.4(21.4.5:8Ùº€ıøÇóÃfMangaReader.inen"https://mangareader.in0*Š
 MangaReader.site0eu.kanade.tachiyomi.extension.en.mangareadersiteø
-shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangareadersite-v1.4.34.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadersite.png"1.4("21.4.34::çİêÔ˜Åš‰#MangaReader.siteen"https://mangareader.site*ı
+shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangareadersite-v1.4.35.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadersite.png"1.4(#21.4.35::çİêÔ˜Åš‰#MangaReader.siteen"https://mangareader.site*ı
 MangaRead.org-eu.kanade.tachiyomi.extension.en.mangareadorgñ
 phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangareadorg-v1.4.52.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadorg.png"1.4(421.4.52::ÜÛ·™‚öÈ›%MangaRead.orgen"https://www.mangaread.org0*æ
 
@@ -1037,7 +1031,7 @@ Mangasushien"https://mangasushi.org*ü
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangatellers-v1.4.5.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangatellers.png"1.4(21.4.5:<ãßÏºåÙÓ£0Mangatellersen"https://reader.mangatellers.gr*î
 
 MangaToday+eu.kanade.tachiyomi.extension.en.mangatodayí
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangatoday-v1.4.34.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangatoday.png"1.4("21.4.34:4õ¢ÈÊÄÆä†
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangatoday-v1.4.35.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangatoday.png"1.4(#21.4.35:4õ¢ÈÊÄÆä†
 MangaTodayen"https://mangatoday.fun0*ì
 	Mangatown*eu.kanade.tachiyomi.extension.en.mangatownë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangatown-v1.4.10.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangatown.png"1.4(
@@ -1149,7 +1143,7 @@ rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Multporn)eu.kanade.tachiyomi.extension.en.multpornè
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.multporn-v1.4.6.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.multporn.png"1.4(21.4.6:0ï‘«³½˜®ÊMultpornen"https://multporn.net0*î
 	MurimScan*eu.kanade.tachiyomi.extension.en.murimscanë
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.murimscan-v1.4.48.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.murimscan.png"1.4(021.4.48:8™»úãò«ÓÔL	MurimScanen"https://www.murimscans.site0*„
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.murimscan-v1.4.49.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.murimscan.png"1.4(121.4.49:8™»úãò«ÓÔL	MurimScanen"https://www.murimscans.site0*„
 MyHentaiComics/eu.kanade.tachiyomi.extension.en.myhentaicomicsô
 qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.myhentaicomics-v1.4.4.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.myhentaicomics.png"1.4(21.4.4:<Á»´ÁÇŒ€DMyHentaiComicsen"https://myhentaicomics.com0*‹
 MyHentaiGallery0eu.kanade.tachiyomi.extension.en.myhentaigallery÷
@@ -1203,9 +1197,9 @@ nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Omega Scans+eu.kanade.tachiyomi.extension.en.omegascansí
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.omegascans-v1.4.48.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.omegascans.png"1.4(021.4.48:5 Ö¢­ëçİ¥Omega Scansen"https://omegascans.org0*ç
 	1Manga.co+eu.kanade.tachiyomi.extension.en.onemangacoí
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.onemangaco-v1.4.34.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.onemangaco.png"1.4("21.4.34:.ó´é™¾ÆËĞW	1Manga.coen"https://1manga.co0*ù
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.onemangaco-v1.4.35.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.onemangaco.png"1.4(#21.4.35:.ó´é™¾ÆËĞW	1Manga.coen"https://1manga.co0*ù
 OneManga.info-eu.kanade.tachiyomi.extension.en.onemangainfoñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.onemangainfo-v1.4.34.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.onemangainfo.png"1.4("21.4.34:6ğó“™Î·àOneManga.infoen"https://onemanga.info0*—
+phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.onemangainfo-v1.4.35.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.onemangainfo.png"1.4(#21.4.35:6ğó“™Î·àOneManga.infoen"https://onemanga.info0*—
 One Punch Man Online2eu.kanade.tachiyomi.extension.en.onepunchmanonlineû
 thttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.onepunchmanonline-v1.4.2.apk‚https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.onepunchmanonline.png"1.4(21.4.2:?—Î‚İ¨È¹One Punch Man Onlineen"https://w11.1punchman.com*
 Only The Best Hentai2eu.kanade.tachiyomi.extension.en.onlythebesthentaiû
@@ -1221,9 +1215,7 @@ Orchisasiaen"https://www.orchisasia.org0*ï
 Orion Scans+eu.kanade.tachiyomi.extension.en.orionscansí
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.orionscans-v1.4.21.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.orionscans.png"1.4(21.4.21:4ô¡Åà¹Ÿ…õkOrion Scansen"https://orion-scans.com*
 Paradise Scans.eu.kanade.tachiyomi.extension.en.paradisescansó
-qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.paradisescans-v1.4.19.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.paradisescans.png"1.4(21.4.19::©˜¯•ˆËã¢RParadiseScansen"https://paradisescans.com0*ü
-Paragon Scans-eu.kanade.tachiyomi.extension.en.paragonscansñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.paragonscans-v1.4.50.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.paragonscans.png"1.4(221.4.50:9ëÆÄ¡Ññ±fParagon Scansen"https://paragonscans.com0*ø
+qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.paradisescans-v1.4.19.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.paradisescans.png"1.4(21.4.19::©˜¯•ˆËã¢RParadiseScansen"https://paradisescans.com0*ø
 Paritehaber,eu.kanade.tachiyomi.extension.en.paritehaberï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.paritehaber-v1.4.51.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.paritehaber.png"1.4(321.4.51::éœïÂ¢×ô3Paritehaberen"https://www.paritehaber.com0*ò
 Patch Friday,eu.kanade.tachiyomi.extension.en.patchfridayî
@@ -1305,9 +1297,7 @@ nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 
 Rest Scans*eu.kanade.tachiyomi.extension.en.restscansë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.restscans-v1.4.32.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.restscans.png"1.4( 21.4.32:3Ï‘Íí¿ÊòÚ7
-Rest Scansen"https://restscans.com0*Ğ
-Retsu&eu.kanade.tachiyomi.extension.en.retsuã
-ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.retsu-v1.4.51.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.retsu.png"1.4(321.4.51:*°ü¬Í©åè·'Retsuen"https://retsu.org0*ş
+Rest Scansen"https://restscans.com0*ş
 Revival Scans-eu.kanade.tachiyomi.extension.en.revivalscansğ
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.revivalscans-v1.4.1.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.revivalscans.png"1.4(21.4.1:=è¾ììÅ»Â´_Revival Scansen"https://www.revivalscans.com0*ò
 Rinko Comics,eu.kanade.tachiyomi.extension.en.rinkocomicsî
@@ -1592,9 +1582,9 @@ phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 DapRob'eu.kanade.tachiyomi.extension.es.daprobå
 jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.daprob-v1.4.50.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.daprob.png"1.4(221.4.50:*ˆ“ÙğïàŸ‰HDapRobes"https://daprob.com*š
 Dark Room Fansub/eu.kanade.tachiyomi.extension.es.darkroomfansubõ
-rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.darkroomfansub-v1.4.13.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.darkroomfansub.png"1.4(21.4.13:N ¡´ª¶éö·&Dark Room Fansubes"*https://lector-darkroomfansub.blogspot.com0*’
+rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.darkroomfansub-v1.4.14.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.darkroomfansub.png"1.4(21.4.14:N ¡´ª¶éö·&Dark Room Fansubes"*https://lector-darkroomfansub.blogspot.com0*’
 Dat-Gar Scan1eu.kanade.tachiyomi.extension.es.datgarscanlationú
-thttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.datgarscanlation-v1.4.12.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.datgarscanlation.png"1.4(21.4.12:CìœÁ¶º¾ÉDat-Gar Scanes"%https://datgarscanlation.blogspot.com*¹
+thttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.datgarscanlation-v1.4.13.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.datgarscanlation.png"1.4(21.4.13:CìœÁ¶º¾ÉDat-Gar Scanes"%https://datgarscanlation.blogspot.com*¹
 Dokjasheart scanlation6eu.kanade.tachiyomi.extension.es.dokjasheartscanlationƒ
 xhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.dokjasheartscanlation-v1.4.4.apk†https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.dokjasheartscanlation.png"1.4(21.4.4:SÚÅ’àõÇàåDokjasheart scanlationes")https://capibaratraductor.com/dokjasheart0*“
 DORAGON NO TENSEI0eu.kanade.tachiyomi.extension.es.doragonnotensei÷
@@ -1636,7 +1626,7 @@ nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Fstake Sukyan-eu.kanade.tachiyomi.extension.es.fstakesukyanğ
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.fstakesukyan-v1.4.4.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.fstakesukyan.png"1.4(21.4.4:Iú‹óÎÚı– kFstake Sukyanes"*https://capibaratraductor.com/fstakesukyan*‘
 Gistamis House.eu.kanade.tachiyomi.extension.es.gistamishouseó
-qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.gistamishouse-v1.4.12.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.gistamishouse.png"1.4(21.4.12:J˜¯ê¦¡è„éGistamis Housees"(https://gistamishousefansub.blogspot.com0*à
+qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.gistamishouse-v1.4.14.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.gistamishouse.png"1.4(21.4.14:J˜¯ê¦¡è„éGistamis Housees"(https://gistamishousefansub.blogspot.com0*à
 Glowi&eu.kanade.tachiyomi.extension.es.glowiâ
 hhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.glowi-v1.4.4.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.glowi.png"1.4(21.4.4:<Ìª¯ô£áµHGlowies"#https://capibaratraductor.com/glowi0*ƒ
 Gremory Mangas.eu.kanade.tachiyomi.extension.es.gremorymangasó
@@ -1776,7 +1766,7 @@ phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 	ManhwaWeb*eu.kanade.tachiyomi.extension.es.manhwawebë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.manhwaweb-v1.4.11.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.manhwaweb.png"1.4(21.4.11:2ñõ¶œÁŠ¢½R	ManhwaWebes"https://manhwaweb.com0*ô
 Manhwa Scan,eu.kanade.tachiyomi.extension.es.mantrazscanï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.mantrazscan-v1.4.55.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mantrazscan.png"1.4(721.4.55:6Å¾Ê‹âåÅcManhwa Scanes"https://manhwascans.lat0*Ù
+ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.mantrazscan-v1.4.56.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mantrazscan.png"1.4(821.4.56:6Å¾Ê‹âåÅcManhwa Scanes"https://manhwascanx.lat0*Ù
 Marmota(eu.kanade.tachiyomi.extension.es.marmotaç
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.marmota-v1.4.50.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.marmota.png"1.4(221.4.50:+Ì†ÿÏ×ñˆ³RMarmotaes"https://marmota.me*ı
 Menudo-Fansub-eu.kanade.tachiyomi.extension.es.menudofansubğ
@@ -1800,13 +1790,13 @@ khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 NeroTranslations1eu.kanade.tachiyomi.extension.es.nerotranslationsù
 shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.nerotranslations-v1.4.4.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nerotranslations.png"1.4(21.4.4:MØ×¼¾’´À¬CNeroTranslationses"+https://capibaratraductor.com/nerotranslate*‹
 NexusScanlation0eu.kanade.tachiyomi.extension.es.nexusscanlation÷
-rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.nexusscanlation-v1.4.2.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nexusscanlation.png"1.4(21.4.2:>ĞÕ‚«¬ÓÂÚ8NexusScanlationes"https://nexusscanlation.com0*¨
+rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.nexusscanlation-v1.4.3.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nexusscanlation.png"1.4(21.4.3:>ĞÕ‚«¬ÓÂÚ8NexusScanlationes"https://nexusscanlation.com0*¨
 Noblesse Translations5eu.kanade.tachiyomi.extension.es.noblessetranslations‚
 xhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.noblessetranslations-v1.4.57.apk…https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.noblessetranslations.png"1.4(921.4.57:D»‰ìÛ˜×ìGNoblesse Translationses"https://nobledicion.yoveo.xyz*ï
 Nova Manhwas+eu.kanade.tachiyomi.extension.es.novamanhwaí
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.novamanhwa-v1.4.32.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.novamanhwa.png"1.4( 21.4.32:3ÑÌñ´×¤ÕÙ%Nova Manhwases"https://novamanhwa.cc*ø
 Novato Scans,eu.kanade.tachiyomi.extension.es.novatoscansï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.novatoscans-v1.4.12.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.novatoscans.png"1.4(21.4.12:9ÖúÁîË¿è‘Novato Scanses"https://www.novatoscans.top*ô
+ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.novatoscans-v1.4.13.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.novatoscans.png"1.4(21.4.13:9ÖúÁîË¿è‘Novato Scanses"https://www.novatoscans.top*ô
 
 Okami.Scan*eu.kanade.tachiyomi.extension.es.okamiscanê
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.okamiscan-v1.4.4.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.okamiscan.png"1.4(21.4.4:?­üúƒÒ«—âL
@@ -1856,7 +1846,7 @@ SACACHISPAes"(https://capibaratraductor.com/sacachispa0*¯
 Saitou Translations3eu.kanade.tachiyomi.extension.es.saitoutranslationsı
 uhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.saitoutranslations-v1.4.4.apkƒhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.saitoutranslations.png"1.4(21.4.4:U÷‰Áì»Ã™Ã!Saitou Translationses"0https://capibaratraductor.com/saitoutranslations*ü
 SapphireScan-eu.kanade.tachiyomi.extension.es.sapphirescanñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.sapphirescan-v1.4.51.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.sapphirescan.png"1.4(321.4.51::òç‰Óî˜œ¤|SapphireScanes"https://www.sapphirescan.com*€
+phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.sapphirescan-v1.4.52.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.sapphirescan.png"1.4(421.4.52::òç‰Óî˜œ¤|SapphireScanes"https://www.sapphirescan.com*€
 Scan Review+eu.kanade.tachiyomi.extension.es.scanreviewì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.scanreview-v1.4.4.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.scanreview.png"1.4(21.4.4:G®úÊ¸æş»EScan Reviewes"(https://capibaratraductor.com/scanreview0*ò
 ScansHub)eu.kanade.tachiyomi.extension.es.scanshubè
@@ -2091,9 +2081,9 @@ hhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 YaoiScan)eu.kanade.tachiyomi.extension.fr.yaoiscané
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.yaoiscan-v1.4.33.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.yaoiscan.png"1.4(!21.4.33:/×µòê¾ãeYaoiScanfr"https://yaoiscan.fr0*Ø
 Luvyaa'eu.kanade.tachiyomi.extension.id.Luvyaaå
-jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.Luvyaa-v1.4.36.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.Luvyaa.png"1.4($21.4.36:.¸±„ ¯Û¡Luvyaaid"https://v4.luvyaa.co0*ß
+jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.Luvyaa-v1.4.36.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.Luvyaa.png"1.4($21.4.36:.¸±„ ¯Û¡Luvyaaid"https://v4.luvyaa.co0*Ü
 Aarlas'eu.kanade.tachiyomi.extension.id.aarlaså
-jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.aarlas-v1.4.14.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.aarlas.png"1.4(21.4.14:5Ş¾òÖÃ–“ZAarlasid"https://aarlas.blogspot.com0*ù
+jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.aarlas-v1.4.16.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.aarlas.png"1.4(21.4.16:2Ş¾òÖÃ–“ZAarlasid"https://www.arlas.online0*ù
 Ainz Scans ID,eu.kanade.tachiyomi.extension.id.ainzscansidï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.ainzscansid-v1.4.33.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.ainzscansid.png"1.4(!21.4.33:9Ü©·ë‹æâ^Ainz Scans IDid"https://v1.ainzscans01.com*ö
 Astral Scans,eu.kanade.tachiyomi.extension.id.astralscansï
@@ -2133,7 +2123,7 @@ lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Hwago&eu.kanade.tachiyomi.extension.id.hwagoã
 ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.hwago-v1.4.54.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.hwago.png"1.4(621.4.54:-à¢‰µ…Ó˜LHwagoid"https://01.hwago.xyz0*ç
 ReYume+eu.kanade.tachiyomi.extension.id.inazumangaí
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.inazumanga-v1.4.40.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.inazumanga.png"1.4((21.4.40:1ñ¸Â©¿Ì³ëReYumeid"https://www.re-yume.my.id*ü
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.inazumanga-v1.4.41.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.inazumanga.png"1.4()21.4.41:1ñ¸Â©¿Ì³ëReYumeid"https://www.re-yume.my.id*ü
 Izanami Scans-eu.kanade.tachiyomi.extension.id.izanamiscansñ
 phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.izanamiscans-v1.4.32.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.izanamiscans.png"1.4( 21.4.32:9ÂœÑïÅ”ÅIzanami Scansid"https://izanamiscans.my.id*ã
 Kanzenin)eu.kanade.tachiyomi.extension.id.kanzeniné
@@ -2190,7 +2180,7 @@ Kuro Manga*eu.kanade.tachiyomi.extension.id.kuromangaë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.kuromanga-v1.4.32.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kuromanga.png"1.4( 21.4.32:0ùô²ÿÛî÷š1
 Kuro Mangaid"https://kuromanga.me*à
 LepoyTL(eu.kanade.tachiyomi.extension.id.lepoytlç
-khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.lepoytl-v1.4.14.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.lepoytl.png"1.4(21.4.14:2†ÅƒÒú¨LepoyTLid"https://www.lepoytl.my.id*ì
+khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.lepoytl-v1.4.15.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.lepoytl.png"1.4(21.4.15:2†ÅƒÒú¨LepoyTLid"https://www.lepoytl.my.id*ì
 	LianScans*eu.kanade.tachiyomi.extension.id.lianscansë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.lianscans-v1.4.33.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.lianscans.png"1.4(!21.4.33:6£ÛÏËÿô©{	LianScansid"https://www.lianscans.com0*ì
 
@@ -2232,20 +2222,20 @@ khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Mihentai)eu.kanade.tachiyomi.extension.id.mihentaié
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mihentai-v1.4.35.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mihentai.png"1.4(#21.4.35:0ğçœ¾å‡Ì+Mihentaiid"https://mihentai.net0*æ
 MikoRoku)eu.kanade.tachiyomi.extension.id.mikorokué
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mikoroku-v1.4.18.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mikoroku.png"1.4(21.4.18:4øğÿİ¤¡wMikoRokuid"https://www.mikoroku.com0*ñ
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mikoroku-v1.4.19.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mikoroku.png"1.4(21.4.19:4øğÿİ¤¡wMikoRokuid"https://www.mikoroku.com0*ñ
 Narasi Ninja,eu.kanade.tachiyomi.extension.id.narasininjaî
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.narasininja-v1.4.2.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.narasininja.png"1.4(21.4.2:4Ş²Ò”¤Ã–óANarasiNinjaid"https://narasininja.net*Í
 Natsu&eu.kanade.tachiyomi.extension.id.natsuã
 ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.natsu-v1.4.33.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.natsu.png"1.4(!21.4.33:'Ôÿ¾Ùİ´‘æ
 Natsuid"https://natsu.tv*ı
 NgamenKomik,eu.kanade.tachiyomi.extension.id.ngamenkomikï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.ngamenkomik-v1.4.12.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.ngamenkomik.png"1.4(21.4.12:?§òºÖâ…ù?NgamenKomikid""https://ngamenkomik05.blogspot.com*ó
+ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.ngamenkomik-v1.4.13.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.ngamenkomik.png"1.4(21.4.13:?§òºÖâ…ù?NgamenKomikid""https://ngamenkomik05.blogspot.com*ó
 Ngomik (unoriginal)'eu.kanade.tachiyomi.extension.id.ngomikå
 jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.ngomik-v1.4.37.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.ngomik.png"1.4(%21.4.37:<ç¸ÌóÚı²JNgomik (unoriginal)id"https://id.ngomik.cloud*Ş
 Noromax(eu.kanade.tachiyomi.extension.id.noromaxç
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.noromax-v1.4.37.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.noromax.png"1.4(%21.4.37:0æò»™œÍÊ$Noromaxid"https://noromax02.my.id*ì
 	OkyyKomik*eu.kanade.tachiyomi.extension.id.okyykomikë
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.okyykomik-v1.4.12.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.okyykomik.png"1.4(21.4.12:6Â¨»Úõ†²…t	OkyyKomikid"https://www.okyykomik.my.id*Ü
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.okyykomik-v1.4.13.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.okyykomik.png"1.4(21.4.13:6Â¨»Úõ†²…t	OkyyKomikid"https://www.okyykomik.my.id*Ü
 Omicaso(eu.kanade.tachiyomi.extension.id.omicasoç
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.omicaso-v1.4.35.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.omicaso.png"1.4(#21.4.35:.Ê¸ÿéâˆ”üeOmicasoid"https://omicaso.org0*æ
 	Ota Scans)eu.kanade.tachiyomi.extension.id.otascansé
@@ -2278,7 +2268,7 @@ mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.shirodoujin-v1.4.2.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.shirodoujin.png"1.4(21.4.2:7¡†•·àÊÃuShiro Doujinid"https://shirodoujin.com0*õ
 
 ShiyuraSub+eu.kanade.tachiyomi.extension.id.shiyurasubí
-nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.shiyurasub-v1.4.13.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.shiyurasub.png"1.4(21.4.13:;½¤Øª©¬èÎb
+nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.shiyurasub-v1.4.14.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.shiyurasub.png"1.4(21.4.14:;½¤Øª©¬èÎb
 ShiyuraSubid"https://shiyurasub.blogspot.com*â
 Siikomik)eu.kanade.tachiyomi.extension.id.siimangaé
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.siimanga-v1.4.50.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.siimanga.png"1.4(221.4.50:0€½ÖìÇó‹BSiikomikid"https://siikomik.net0*å
@@ -2291,10 +2281,10 @@ Soul Scansid"https://soulscans.my.id*ã
 TheManga)eu.kanade.tachiyomi.extension.id.themangaé
 lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.themanga-v1.4.48.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.themanga.png"1.4(021.4.48:1®î²›ÒÆ×Ô9TheMangaid"https://themanga.site0*ì
 	Tooncubus*eu.kanade.tachiyomi.extension.id.tooncubusë
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.tooncubus-v1.4.12.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.tooncubus.png"1.4(21.4.12:6ğØº«ô—ïu	Tooncubusid"https://www.tooncubus.top0*î
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.tooncubus-v1.4.13.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.tooncubus.png"1.4(21.4.13:6ğØº«ô—ïu	Tooncubusid"https://www.tooncubus.top0*î
 
 Ulas Comic*eu.kanade.tachiyomi.extension.id.ulascomicë
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.ulascomic-v1.4.12.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.ulascomic.png"1.4(21.4.12:7¦‡µæÍş¤
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.ulascomic-v1.4.13.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.ulascomic.png"1.4(21.4.13:7¦‡µæÍş¤
 Ulas Comicid"https://www.ulascomic01.xyz*ç
 
 West Manga*eu.kanade.tachiyomi.extension.id.westmangaë
@@ -2365,7 +2355,9 @@ lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Comic Daysja"https://comic-days.com*‰
 Comic Earth Star/eu.kanade.tachiyomi.extension.ja.comicearthstarõ
 rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicearthstar-v1.4.10.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.comicearthstar.png"1.4(
-21.4.10:=±å˜ä‘«„Í1Comic Earth Starja"https://comic-earthstar.com*ã
+21.4.10:=±å˜ä‘«„Í1Comic Earth Starja"https://comic-earthstar.com*í
+Comic Festa+eu.kanade.tachiyomi.extension.ja.comicfestaì
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicfesta-v1.4.1.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.comicfesta.png"1.4(21.4.1:4èÒ²ôºûà¶oComic Festaja"https://comic.iowl.jp0*ã
 	COMIC FUZ)eu.kanade.tachiyomi.extension.ja.comicfuzè
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicfuz-v1.4.3.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.comicfuz.png"1.4(21.4.3:2ËàíÚÎµñe	COMIC FUZja"https://comic-fuz.com0*ï
 Comic Gardo+eu.kanade.tachiyomi.extension.ja.comicgardoí
@@ -2415,7 +2407,7 @@ eBookJapan+eu.kanade.tachiyomi.extension.ja.ebookjapanì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.ebookjapan-v1.4.1.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.ebookjapan.png"1.4(21.4.1:<ÈÀ’ì‡§şİ
 eBookJapanja"https://ebookjapan.yahoo.co.jp0*ã
 	FireCross*eu.kanade.tachiyomi.extension.ja.firecrossê
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.firecross-v1.4.2.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.firecross.png"1.4(21.4.2:/Îßı½¡ÓÂW	FireCrossja"https://firecross.jp*÷
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.firecross-v1.4.3.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.firecross.png"1.4(21.4.3:/Îßı½¡ÓÂW	FireCrossja"https://firecross.jp*÷
 Flower Comics-eu.kanade.tachiyomi.extension.ja.flowercomicsğ
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.flowercomics-v1.4.2.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.flowercomics.png"1.4(21.4.2:6ó†¬¦¨À«ÈZFlower Comicsja"https://flowercomics.jp*İ
 FOD(eu.kanade.tachiyomi.extension.ja.fodfujiæ
@@ -2599,7 +2591,7 @@ ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 	Capitoons*eu.kanade.tachiyomi.extension.pt.apecomicsë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.apecomics-v1.4.45.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.apecomics.png"1.4(-21.4.45:3›ÚâçÃà>	Capitoonspt-BR"https://capitoons.com*…
 Apenas Uma FÃ£,eu.kanade.tachiyomi.extension.pt.apenasumafaï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.apenasumafa-v1.4.12.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.apenasumafa.png"1.4(21.4.12:DìÍı—êÛ_Apenas Uma FÃ£pt-BR"!https://apenasuma-fa.blogspot.com*ô
+ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.apenasumafa-v1.4.13.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.apenasumafa.png"1.4(21.4.13:DìÍı—êÛ_Apenas Uma FÃ£pt-BR"!https://apenasuma-fa.blogspot.com*ô
 Argos Comics,eu.kanade.tachiyomi.extension.pt.argoscomicsï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.argoscomics-v1.4.54.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.argoscomics.png"1.4(621.4.54:5„«óí·¸ô%Argos Comicspt-BR"https://aniargos.com*ğ
 
@@ -2659,7 +2651,7 @@ phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 FlowerManga.net,eu.kanade.tachiyomi.extension.pt.flowermangaï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.flowermanga-v1.4.53.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.flowermanga.png"1.4(521.4.53:>õ®Ø¾éıÉÌ!FlowerManga.netpt-BR"https://flowermangas.net0*Œ
 GALAX Scans/eu.kanade.tachiyomi.extension.pt.galaxscanlatorõ
-rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.galaxscanlator-v1.4.12.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.galaxscanlator.png"1.4(21.4.12:E¢ü†¥Â„‰MGALAX Scanspt-BR"#https://galaxscanlator.blogspot.com0*÷
+rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.galaxscanlator-v1.4.13.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.galaxscanlator.png"1.4(21.4.13:E¢ü†¥Â„‰MGALAX Scanspt-BR"#https://galaxscanlator.blogspot.com0*÷
 Geass Comics,eu.kanade.tachiyomi.extension.pt.geasscomicsî
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.geasscomics-v1.4.3.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.geasscomics.png"1.4(21.4.3::İğåš§äålGeass Comicspt-BR"https://geasscomics.xyz0*í
 
@@ -2667,7 +2659,7 @@ Ghost Scan*eu.kanade.tachiyomi.extension.pt.ghostscanë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.ghostscan-v1.4.51.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.ghostscan.png"1.4(321.4.51:6¡ü¹°Ø¾¿ì
 Ghost Scanpt-BR"https://ghostscan.xyz0*ˆ
 Hanmokku Scan-eu.kanade.tachiyomi.extension.pt.hanmokkuscanñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.hanmokkuscan-v1.4.12.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.hanmokkuscan.png"1.4(21.4.12:EşÚİ‘×²Éù Hanmokku Scanpt-BR"!https://hanmokkuscan.blogspot.com0*û
+phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.hanmokkuscan-v1.4.13.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.hanmokkuscan.png"1.4(21.4.13:EşÚİ‘×²Éù Hanmokku Scanpt-BR"!https://hanmokkuscan.blogspot.com0*û
 Hentai Season-eu.kanade.tachiyomi.extension.pt.hentaiseasonğ
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.hentaiseason-v1.4.6.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.hentaiseason.png"1.4(21.4.6::´¬ÑîÁHentai Seasonpt-BR"https://hentaiseason.com0*÷
 Hentai Tokyo,eu.kanade.tachiyomi.extension.pt.hentaitokyoî
@@ -2699,7 +2691,7 @@ rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Leitura Manga-eu.kanade.tachiyomi.extension.pt.leituramangağ
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.leituramanga-v1.4.4.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.leituramanga.png"1.4(21.4.4:=›õ“«’¹‡Leitura MangÃ¡pt-BR"https://leituramanga.net0*á
 Ler 999'eu.kanade.tachiyomi.extension.pt.ler999å
-jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.ler999-v1.4.12.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.ler999.png"1.4(21.4.12:6³å½öÆÉ‰Ler 999pt-BR"https://ler999.blogspot.com*ì
+jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.ler999-v1.4.13.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.ler999.png"1.4(21.4.13:6³å½öÆÉ‰Ler 999pt-BR"https://ler999.blogspot.com*ì
 
 Ler Mangas*eu.kanade.tachiyomi.extension.pt.lermangasë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.lermangas-v1.4.50.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.lermangas.png"1.4(221.4.50:5—·¯Á“Óò
@@ -2710,7 +2702,7 @@ mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 
 Limbo Scanpt-BR"https://limboscan.com.br0*ş
 Little Tyrant-eu.kanade.tachiyomi.extension.pt.littletyrantñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.littletyrant-v1.4.54.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.littletyrant.png"1.4(621.4.54:;Ï–¹¡¹àïçCLittle Tyrantpt-BR"https://tiraninha.world0*ï
+phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.littletyrant-v1.4.55.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.littletyrant.png"1.4(721.4.55:;Ï–¹¡¹àïçCLittle Tyrantpt-BR"https://tiraninha.world0*ï
 Lycan Toons+eu.kanade.tachiyomi.extension.pt.lycantoonsì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.lycantoons-v1.4.2.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.lycantoons.png"1.4(21.4.2:6óƒìÕ¼®Ã~Lycan Toonspt-BR"https://lycantoons.com*ê
 	Maid Scan)eu.kanade.tachiyomi.extension.pt.maidscané
@@ -2772,10 +2764,10 @@ ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.origamiorpheans-v1.4.42.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.origamiorpheans.png"1.4(*21.4.42:C¢¢†ÖÖ¾ƒ…8Origami Orpheanspt-BR"https://origami-orpheans.com0*ñ
 
 Osaka Scan*eu.kanade.tachiyomi.extension.pt.osakascanë
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.osakascan-v1.4.12.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.osakascan.png"1.4(21.4.12::Ë—­ÙÚ±¼C
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.osakascan-v1.4.13.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.osakascan.png"1.4(21.4.13::Ë—­ÙÚ±¼C
 Osaka Scanpt-BR"https://www.osakascan.com0*ò
 	Pink Rosa)eu.kanade.tachiyomi.extension.pt.pinkrosaé
-lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.pinkrosa-v1.4.13.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.pinkrosa.png"1.4(21.4.13:?“Š ŸğË­u	Pink Rosapt-BR"!https://scanpinkrosa.blogspot.com*ˆ
+lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.pinkrosa-v1.4.14.apkyhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.pinkrosa.png"1.4(21.4.14:?“Š ŸğË­u	Pink Rosapt-BR"!https://scanpinkrosa.blogspot.com*ˆ
 Pink Sea Unicorn/eu.kanade.tachiyomi.extension.pt.pinkseaunicornõ
 rhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.51.apkhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.pinkseaunicorn.png"1.4(321.4.51:<¤´—ñÆ³ì¡#Pink Sea Unicornpt-BR"https://psunicorn.com0*€
 Pirulito Rosa-eu.kanade.tachiyomi.extension.pt.pirulitorosañ
@@ -2826,7 +2818,7 @@ khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Tatakae Scan,eu.kanade.tachiyomi.extension.pt.tatakaescanï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.tatakaescan-v1.4.52.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.tatakaescan.png"1.4(421.4.52::ÿ¦ÛŠĞ‘ÚƒjTatakae Scanpt-BR"https://tatakaescan.com0*Š
 Temaki mangÃ¡s-eu.kanade.tachiyomi.extension.pt.temakimangasñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.temakimangas-v1.4.12.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.temakimangas.png"1.4(21.4.12:F”¡½åÏ“ ³	Temaki mangÃ¡spt-BR"!https://temakimangas.blogspot.com0*í
+phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.temakimangas-v1.4.13.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.temakimangas.png"1.4(21.4.13:F”¡½åÏ“ ³	Temaki mangÃ¡spt-BR"!https://temakimangas.blogspot.com0*í
 
 Tia Manhwa*eu.kanade.tachiyomi.extension.pt.tiamanhwaë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.tiamanhwa-v1.4.53.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.tiamanhwa.png"1.4(521.4.53:6¯çÑª‚µú¹z
@@ -2834,7 +2826,7 @@ Tia Manhwapt-BR"https://tiamanhwa.com0*Ú
 ToonBr'eu.kanade.tachiyomi.extension.pt.toonbrä
 ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.toonbr-v1.4.2.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.toonbr.png"1.4(21.4.2:2Üˆ‰³‘çµToonBrpt-BR"https://beta.toonbr.com*Ÿ
 TraduÃ§Ãµes do Lipe0eu.kanade.tachiyomi.extension.pt.traducoesdolipeø
-shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.traducoesdolipe-v1.4.13.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.traducoesdolipe.png"1.4(21.4.13:Lñš¹÷·‘ÎÔ2TraduÃ§Ãµes do Lipept-BR"$https://traducoesdolipe.blogspot.com*œ
+shttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.traducoesdolipe-v1.4.14.apk€https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.traducoesdolipe.png"1.4(21.4.14:Lñš¹÷·‘ÎÔ2TraduÃ§Ãµes do Lipept-BR"$https://traducoesdolipe.blogspot.com*œ
 Tsundoku TraduÃ§Ãµes2eu.kanade.tachiyomi.extension.pt.tsundokutraducoesü
 uhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.tsundokutraducoes-v1.4.41.apk‚https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.tsundokutraducoes.png"1.4()21.4.41:B†ëñ«¶Â‚Tsundoku TraduÃ§Ãµespt-BR"https://tsundoku.com.br0*‰
 Universo Hentai/eu.kanade.tachiyomi.extension.pt.universohentaiô
@@ -2848,7 +2840,7 @@ khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 XXX Yaoi(eu.kanade.tachiyomi.extension.pt.xxxyaoiç
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.xxxyaoi-v1.4.51.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.xxxyaoi.png"1.4(321.4.51:1‘şåŞ¦ëÈ"XXX Yaoipt-BR"https://3xyaoi.com0*ÿ
 Yaoi Fan Club,eu.kanade.tachiyomi.extension.pt.yaoifanclubï
-ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.yaoifanclub-v1.4.13.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.yaoifanclub.png"1.4(21.4.13:?‚ÚõõÔÆ‹2Yaoi Fan Clubpt-BR"https://www.yaoifanclub.com0*ó
+ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.yaoifanclub-v1.4.14.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.yaoifanclub.png"1.4(21.4.14:?‚ÚõõÔÆ‹2Yaoi Fan Clubpt-BR"https://www.yaoifanclub.com0*ó
 Yomu MangÃ¡s+eu.kanade.tachiyomi.extension.pt.yomumangasì
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.yomumangas-v1.4.5.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.yomumangas.png"1.4(21.4.5:9Ö†Ûš£èÛYomu MangÃ¡spt-BR"https://yomumangas.com0*ƒ
 Yugen MangÃ¡s,eu.kanade.tachiyomi.extension.pt.yugenmangasï
@@ -3094,7 +3086,7 @@ khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Merlin Scans,eu.kanade.tachiyomi.extension.tr.merlinscansï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.merlinscans-v1.4.36.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.merlinscans.png"1.4($21.4.36:4‚Æà–ÓĞ†ãCMerlin Scanstr"https://merlintoon.com* 
 Mikrokosmos Fansub2eu.kanade.tachiyomi.extension.tr.mikrokosmosfansubü
-uhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.mikrokosmosfansub-v1.4.13.apk‚https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.mikrokosmosfansub.png"1.4(21.4.13:HˆÓœŠòú™Mikrokosmos Fansubtr""https://mikrokosmosfb.blogspot.com0*â
+uhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.mikrokosmosfansub-v1.4.14.apk‚https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.mikrokosmosfansub.png"1.4(21.4.14:HˆÓœŠòú™Mikrokosmos Fansubtr""https://mikrokosmosfb.blogspot.com0*â
 MilaSub(eu.kanade.tachiyomi.extension.tr.milasubç
 khttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.milasub-v1.4.53.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.milasub.png"1.4(521.4.53:4¶¿ñÑ›˜ôÜNMilaSubtr"https://www.millascan.com0*‹
 Moon Daisy Scans/eu.kanade.tachiyomi.extension.tr.moondaisyscansõ
@@ -3126,7 +3118,7 @@ phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Serein Scan+eu.kanade.tachiyomi.extension.tr.sereinscaní
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.sereinscan-v1.4.32.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.sereinscan.png"1.4( 21.4.32:3ã¸¨ƒÜûõÕSerein Scantr"https://sereinscan.com*…
 Shadow Ã‡eviri-eu.kanade.tachiyomi.extension.tr.shadowceviriñ
-phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.shadowceviri-v1.4.12.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.shadowceviri.png"1.4(21.4.12:AĞƒƒ»“¢¼5Shadow Ã‡eviritr"!https://shadowceviri.blogspot.com*ô
+phttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.shadowceviri-v1.4.13.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.shadowceviri.png"1.4(21.4.13:AĞƒƒ»“¢¼5Shadow Ã‡eviritr"!https://shadowceviri.blogspot.com*ô
 Shijie Scans,eu.kanade.tachiyomi.extension.tr.shijiescansï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.shijiescans-v1.4.33.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.shijiescans.png"1.4(!21.4.33:5‚ŠîµÕ¥·•Shijie Scanstr"https://shijiescans.com*ğ
 Siyah Melek+eu.kanade.tachiyomi.extension.tr.siyahmelekí
